@@ -1,0 +1,8 @@
+{
+    "name": "TodoApp",  
+    "displayName": "Todo App",
+    "expo": {
+      "platforms": ["ios", "android", "web"]
+    }
+  }
+  
